@@ -16,5 +16,5 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Então execute o comando `jupyter-lab` para executar os notebooks.
+Então execute o comando `jupyter notebook` para executar os notebooks.
 
